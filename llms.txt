@@ -1,0 +1,28 @@
+# Titan Air Conditioning & Heating LLC
+> Licensed HVAC contractor serving Sugar Land, Texas and surrounding communities. Over 10 years of professional AC and heating service.
+
+## Owner
+Agustin Salas — Founder, licensed HVAC technician with 10+ years experience
+
+## Services
+- AC Repair: Diagnosis and repair of all residential air conditioning systems
+- AC Installation: New central AC systems, ductless mini-splits, and system replacements
+- Heating Repair: Furnace and heat pump diagnosis and repair
+- Heating Installation: New furnace installation, heat pump installation, system upgrades
+- Maintenance Plans: Twice-yearly preventive maintenance for AC and heating systems
+- Indoor Air Quality: Air purifiers, UV lights, duct cleaning, humidity control
+
+## Service Area
+Sugar Land, Missouri City, Rosenberg, Richmond, Katy, Houston SW (Fort Bend County and surrounding areas)
+
+## Credentials
+- Texas HVAC License: TACLB135324E
+- Fully insured
+- 5-star Google reviews
+- 10+ years in business
+- Family-owned and operated
+
+## Contact
+- Phone: (832) 910-6259
+- Hours: Monday-Saturday 7:00 AM - 5:00 PM
+- Website: https://titan-air.vercel.app
